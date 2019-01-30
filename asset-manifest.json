@@ -1,14 +1,14 @@
 {
-  "main.css": "/judgeapp/static/css/main.4333c867.chunk.css",
-  "main.js": "/judgeapp/static/js/main.baf2a274.chunk.js",
-  "main.js.map": "/judgeapp/static/js/main.baf2a274.chunk.js.map",
-  "static/js/1.4a34e45d.chunk.js": "/judgeapp/static/js/1.4a34e45d.chunk.js",
-  "static/js/1.4a34e45d.chunk.js.map": "/judgeapp/static/js/1.4a34e45d.chunk.js.map",
-  "runtime~main.js": "/judgeapp/static/js/runtime~main.a40f1a97.js",
-  "runtime~main.js.map": "/judgeapp/static/js/runtime~main.a40f1a97.js.map",
-  "static/media/logo.svg": "/judgeapp/static/media/logo.5d5d9eef.svg",
-  "static/css/main.4333c867.chunk.css.map": "/judgeapp/static/css/main.4333c867.chunk.css.map",
-  "index.html": "/judgeapp/index.html",
-  "precache-manifest.c23bfbbbf4179976d06052817c606aa2.js": "/judgeapp/precache-manifest.c23bfbbbf4179976d06052817c606aa2.js",
-  "service-worker.js": "/judgeapp/service-worker.js"
+  "main.css": "/JudgeApp/static/css/main.4333c867.chunk.css",
+  "main.js": "/JudgeApp/static/js/main.243cd72c.chunk.js",
+  "main.js.map": "/JudgeApp/static/js/main.243cd72c.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/JudgeApp/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/JudgeApp/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/JudgeApp/static/js/runtime~main.559a9c8c.js",
+  "runtime~main.js.map": "/JudgeApp/static/js/runtime~main.559a9c8c.js.map",
+  "static/media/logo.svg": "/JudgeApp/static/media/logo.5d5d9eef.svg",
+  "static/css/main.4333c867.chunk.css.map": "/JudgeApp/static/css/main.4333c867.chunk.css.map",
+  "index.html": "/JudgeApp/index.html",
+  "precache-manifest.84d211e9f8c474f4041522fbbeb04000.js": "/JudgeApp/precache-manifest.84d211e9f8c474f4041522fbbeb04000.js",
+  "service-worker.js": "/JudgeApp/service-worker.js"
 }
